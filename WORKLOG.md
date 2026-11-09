@@ -1,7 +1,7 @@
 # Work log — Nov 8, 2026
 
 ## What I did today
-- Wrote up my take on the CIA triad in DevSecOps, out of curiosity about
+- Wrote up my take on the CIA triad in DevSecOps, about
   how the three principles actually work together in practice.
 - Replied to a classmate who had posted on the same topic, picking up on
   his point about balancing security with delivery speed, with a concrete

@@ -1,8 +1,6 @@
 # CIA Triad in DevSecOps
 
-A short write-up I did because I was curious about how Confidentiality,
-Integrity and Availability actually hold together in DevSecOps, instead
-of just being three words in a textbook.
+A short write-up on how Confidentiality, Integrity and Availability actually hold together in DevSecOps, instead of just being three words in a textbook.
 
 ## My take
 I think of the CIA triad as three promises a system has to keep at the
